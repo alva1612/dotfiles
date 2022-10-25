@@ -12,6 +12,7 @@ import:
   - ~/.config/alacritty/imports/font.yml
   - ~/.config/alacritty/imports/challenger-deep-theme.yml
   - ~/.config/alacritty/imports/shell.yml
+  - ~/.config/alacritty/imports/scroll-behaviour.yml
 
 # Any items in the `env` entry below will be added as
 # environment variables. Some entries may override variables
@@ -102,14 +103,6 @@ window:
   # Commonly supported values are `dark` and `light`. Set this to `None` to use
   # the default theme variant.
   #decorations_theme_variant: None
-
-#scrolling:
-  # Maximum number of lines in the scrollback buffer.
-  # Specifying '0' will disable scrolling.
-  #history: 10000
-
-  # Scrolling distance multiplier.
-  #multiplier: 3
 
 # Font configuration
 #font:
