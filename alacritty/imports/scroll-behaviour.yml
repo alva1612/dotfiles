@@ -1,3 +1,3 @@
 scrolling:
-    history: 100
+    history: 10000
     multiplier: 3
